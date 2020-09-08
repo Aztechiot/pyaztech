@@ -1,8 +1,8 @@
-from setuptools import setup
+    from setuptools import setup
 
 setup(name='pyaztech',
       version='0.3.5',
-      description='Interface for TPLink HS1xx plugs, HS2xx wall switches & LB1xx bulbs',
+      description='Interface for Aztech',
       url='https://github.com/Aztechiot/pyaztech',
       author='Aztechiot',
       author_email='warren.lee@aztech.com',
